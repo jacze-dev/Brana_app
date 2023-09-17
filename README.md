@@ -44,14 +44,12 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 3. **Open the Project Directory with vscode or android studio**
 
-    ```bash
+    ```cmd
    code .
 
 4. **Get Dependencies:**
 
-Use the Flutter command-line tools to get the required dependencies:
-
-   ```bash
+   ```cmd
    flutter pub get
 
 ## Running the App
@@ -59,6 +57,7 @@ Use the Flutter command-line tools to get the required dependencies:
 Now that you have the app and its dependencies installed, you can start it locally:
 
 1. **Start the Application:**
+
    ```bash
    flutter run
 
