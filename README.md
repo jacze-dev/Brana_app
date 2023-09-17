@@ -51,7 +51,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 Use the Flutter command-line tools to get the required dependencies:
 
-   ```bash```
+   ```bash
    flutter pub get
 
 ## Running the App
@@ -59,12 +59,12 @@ Use the Flutter command-line tools to get the required dependencies:
 Now that you have the app and its dependencies installed, you can start it locally:
 
 1. **Start the Application:**
-
+   ```bash
    flutter run
 
 The app will be accessible on your emulator or physical device.
 
-  #### Usage
+### Usage
 
    ***Create an Account:*** If you don't have an account, sign up for one. If you have an account, simply log in.
 
