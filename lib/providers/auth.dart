@@ -21,7 +21,7 @@ class Auth extends ChangeNotifier {
 
   late bool _emailIsVerfied = false;
 
-  final keyString = 'AIzaSyDenSquhICKAv2dq92GgMQBeccWGEXtoUg';
+  final keyString = 'appkey';
 
   bool get isAuth {
     return token != '';
