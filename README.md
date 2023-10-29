@@ -1,6 +1,6 @@
 # Brana_app
 
-![Login page]([URL](https://firebasestorage.googleapis.com/v0/b/photos-for-projcts.appspot.com/o/Screenshot_20231028-182437.png?alt=media&token=d6b4d2d3-ea18-4e6f-91db-ad83d18c09fc&_gl=1*1dv4g4o*_ga*Mjg2MTQ3MTE3LjE2OTMyMDM2OTg.*_ga_CW55HF8NVT*MTY5ODU0NDQ2OC45LjEuMTY5ODU0NDc5Ni40Ni4wLjA.))
+![Login page]([URL](https://firebasestorage.googleapis.com/v0/b/photos-for-projcts.appspot.com/o/Screenshot_20231028-182437.png?alt=media&token=d6b4d2d3-ea18-4e6f-91db-ad83d18c09fc&_gl=1*1dv4g4o*_ga*Mjg2MTQ3MTE3LjE2OTMyMDM2OTg.*_ga_CW55HF8NVT*MTY5ODU0NDQ2OC45LjEuMTY5ODU0NDc5Ni40Ni4wLjA))
 
 
 "Brana is a note taking and qoute saver app"
