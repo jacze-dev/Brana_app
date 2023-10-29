@@ -1,6 +1,6 @@
 # Brana_app
 
-![My Screenshot](https://firebasestorage.googleapis.com/v0/b/photos-for-projcts.appspot.com/o/Screenshot_20231028-182437.png?alt=media&token=d6b4d2d3-ea18-4e6f-91db-ad83d18c09fc)
+<img src="https://firebasestorage.googleapis.com/v0/b/photos-for-projcts.appspot.com/o/Screenshot_20231028-182437.png?alt=media&token=d6b4d2d3-ea18-4e6f-91db-ad83d18c09fc" alt="My Screenshot" width="300" height="200">
 
 
 "Brana is a note taking and qoute saver app"
